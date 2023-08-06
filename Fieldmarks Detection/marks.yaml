@@ -1,0 +1,4 @@
+train: training_data/images/training/
+val: training_data/images/validation/
+nc: 5
+names: ['10','20','30','40','50']
