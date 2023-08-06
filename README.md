@@ -1,5 +1,7 @@
 # The Referee's Watch
 
+![](/TRW.JPG)
+
 ## Overview
 The Referee's Watch project aims to detect and factorize NFL fields and players using advanced computer vision techniques. Field detection is a fundamental task in sports analytics, providing valuable information such as ball possession, player movements, and game events. The proposed approach leverages the Hough transform algorithm to detect field lines effectively, accurately identifying yard lines, end zones, and sidelines.
 
